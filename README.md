@@ -1,4 +1,4 @@
-<img src="https://github.com/christophermorin/assets/blob/44ffdf43f56a3650ce7a71a2e580ca2d00f67ba3/Artist%20Landing.png">
+<img src="https://github.com/christophermorin/assets/blob/2342c381200252b51657fcab3f2439eb5a63bd0e/artist-landing.png">
 
 
 
