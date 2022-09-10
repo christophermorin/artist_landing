@@ -83,12 +83,13 @@ h1{
 }
 .right-main{
      min-width: 340px;
-     min-height: 20vh;
+     min-height: 10vh;
      transition: min-width 1s;
 }
 .right-nav{
      display: flex;
      flex-flow: column;
+     justify-content: space-around;
      gap: 10px;
      margin:0;
      padding: 0;
